@@ -41,7 +41,7 @@ The agent follows up with the user to request more details about the issue. At t
 
 ![5  login as admin to resolve ticket](https://github.com/user-attachments/assets/ae416bf8-8480-4fef-b3dd-e7fdb3ed27ee)
 
-After logging in the Tickets window will appear, displaying details such as the ticket number, last update, subject, submitter, priority level, and assigned agent. To begin working on a ticket, simply click on it to open it.
+After logging in the Tickets window will appear displaying details such as the ticket number, last update, subject, submitter, priority level, and assigned agent. To begin working on a ticket, simply click on it to open it.
 
 Once it's updated the ticket then moves to “Work in Progress” status. To ensure quality service, SLAs must be followed, as they track response times, resolution times, and whether targets are met. As agents work on the issue, they actively assess the ticket, provide a solution, and work toward resolving it.
 
